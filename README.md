@@ -1,5 +1,5 @@
 ### Hi there 👋
-
+![Readme Card](https://github-readme-stats.vercel.app/api?username=a2uk1&bg_color=DEG,fff1eb,ace0f9)
 <!--
 **a2uk1/a2uk1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
